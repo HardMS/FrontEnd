@@ -11,4 +11,24 @@
 **Client:** React, React-Toastify, React-Router-Dom, React-Hook-Form
 
 
+## Start
+
+To start the project use:
+
+```bash
+  npm start
+```
+
+
+## Build
+
+To build the project use:
+
+```bash
+  npm build
+```
+
+
+
+
   
