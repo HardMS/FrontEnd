@@ -1,0 +1,21 @@
+# Общие исключения
+.DS_Store
+Thumbs.db
+*.log
+logs/
+*.swp
+*.tmp
+
+# Переменные окружения
+.env
+.env.local
+.env.*.local
+
+# Фронтенд
+/node_modules/
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.bak
+*.old
